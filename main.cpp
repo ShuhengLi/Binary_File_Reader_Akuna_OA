@@ -23,6 +23,7 @@ std::string ActTraderTag();
 std::string LiqTraderTag();
 void Volum_instr();
 bool myfun(Entry, Entry);
+
 //Dispaly files function declearation(debug)====================
 void display_header();
 void display_entry();
